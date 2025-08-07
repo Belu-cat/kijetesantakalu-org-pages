@@ -1,0 +1,21 @@
+body {
+    font-family: "Fredoka", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+    color: #E6E8EF;
+    background-color: #1C3144;
+  }
+
+a {
+   color: #17B890;
+}
+
+h1 {
+    text-align: center;
+}
+
+.explaintext {
+    text-align: center;
+}
